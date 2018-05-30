@@ -1,0 +1,7 @@
+class Commandline{
+   pulic static void mein (string args [Svetlana])}
+     for(int i=0; kargs.length;i++)
+       system.out.printin("args["+i+"]:"+args[i];
+  }
+}  
+   
